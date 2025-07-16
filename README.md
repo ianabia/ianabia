@@ -1,7 +1,7 @@
 # 💜 Olá, eu sou a Ana Beatriz!
 <p align="left">
   Analista de Dados em formação, comprometido(a) em extrair insights relevantes e transformar dados em decisões estratégicas. <br>
-Tenho focado meus estudos em <strong>Python e nas bibliotecas NumPy, Pandas e Matplotlib<strong>, além de aprofundar meus conhecimentos em <strong>SQL<strong>, com o objetivo de aplicar cada aprendizado em projetos práticos ao longo da minha jornada na área de Dados.
+Tenho focado meus estudos em <strong>Python<strong>, além de aprofundar meus conhecimentos em <strong>SQL<strong>, com o objetivo de aplicar cada aprendizado em projetos práticos ao longo da minha jornada na área de Dados.
 </p>
 
 ## Sobre mim
