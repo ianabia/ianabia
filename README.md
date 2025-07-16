@@ -27,8 +27,8 @@ Tenho focado meus estudos em <strong>Python e nas bibliotecas NumPy, Pandas e Ma
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/ianabia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianabia-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianabia-dev&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianabia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianabia&layout=compact&langs_count=6&theme=radical"/>
 
 
 
