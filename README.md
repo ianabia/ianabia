@@ -6,10 +6,10 @@ Tenho focado meus estudos em <strong>Python e nas bibliotecas NumPy, Pandas e Ma
 
 ## Sobre mim
 
-- 🎓 Gradada em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 - 🎓 Cursando MBA em Data Science & Artificial Intelligence
 - 📚 Estudando Python, Postgres, Estatísticas, e Análise de Dados.
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções baseadas em dados.
 
 ---
 <br>
