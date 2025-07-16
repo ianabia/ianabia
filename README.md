@@ -8,7 +8,7 @@ Tenho focado meus estudos em <strong>Python<strong>, além de aprofundar meus co
 
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 - 🎓 Cursando MBA em Data Science & Artificial Intelligence
-- 📚 Estudando Python, Postgres, Estatísticas, e Análise de Dados.
+- 📚 Estudando Python, PostgreSQL, Estatísticas, e Análise de Dados.
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções baseadas em dados.
 
 ---
