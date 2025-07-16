@@ -59,7 +59,7 @@
 </p>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+  Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn.💌✨
 </p>
 
 <p align="left">
