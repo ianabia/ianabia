@@ -48,7 +48,7 @@
 
 <p align="left"> 
   Sou formada como <strong>Analista e Desenvolvedora de Sistemas</strong> pela FATEC-SP e atualmente estou cursando um <strong>MBA em Data Science & Artificial Intelligence</strong> na FIAP. <br><br>
-  Tenho me aprofundado em <strong>Python</strong>, com foco em <strong>Numpy, Pandas</strong> para Análise de Dados. Também venho explorando tecnologias como <strong>Power Bi</strong>, <strong>Oracle Database</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>MlOps</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Tenho me aprofundado em <strong>Python</strong>, com foco em <strong>Numpy e Pandas</strong> para Análise de Dados. Também venho explorando tecnologias como <strong>Power Bi</strong>, <strong>Oracle Database</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>MlOps</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
