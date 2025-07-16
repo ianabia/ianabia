@@ -37,7 +37,7 @@ Tenho focado meus estudos em <strong>Python<strong>, além de aprofundar meus co
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
 ### 🚀 Bancos de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,oracle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,oracle)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
