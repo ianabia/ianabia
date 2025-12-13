@@ -73,8 +73,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ianabia.ianabia&left_color=darkviolet&right_color=orchid" width="80" />
 </div>
 
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=ianabia&locale=pt->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
