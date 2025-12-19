@@ -61,8 +61,4 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ianabia.ianabia&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
