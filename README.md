@@ -24,11 +24,6 @@
 ---
 
 
-
-## ⭐ GitHub Stats
-
-
-
 ## Tecnologias e linguagens 💻
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
